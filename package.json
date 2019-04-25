@@ -1,0 +1,29 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sundaresan54/OB_Assignments.git"
+  },
+  "author": "sundaresan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sundaresan54/OB_Assignments/issues"
+  },
+  "homepage": "https://github.com/Sundaresan54/OB_Assignments#readme"
+}
